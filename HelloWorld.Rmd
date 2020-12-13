@@ -8,6 +8,6 @@ date: "13/12/2020"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is a mardown file
+## This is a markdown file
 This a markdown file I made for the final evaluation in "The data scientist toolbox". 
 I will upload this to my repository in **gibhub** named:*datasciencecoursera*
